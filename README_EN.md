@@ -25,7 +25,6 @@ A modern, elegant and animated landing page template built with Next.js 13+, Tai
 - 🔍 TypeScript Type Safety
 - 🎭 Framer Motion Animations
 - 📦 Component-based Development
-- 🌍 Internationalization Support
 - 🎨 Customizable Theme
 - 📱 Mobile-First Design
 - 🛠️ Easy to Customize and Extend
