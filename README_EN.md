@@ -9,7 +9,7 @@
 
 A modern, elegant and animated landing page template built with Next.js 13+, Tailwind CSS, and Framer Motion.
 
-[简体中文](./README.md) · [Demo](https://aurora-landing.vercel.app) · [Issues](https://github.com/langgptai/aurora-landing/issues)
+[简体中文](./README.md) · [Demo](https://aurora-landing-woad.vercel.app) · [Issues](https://github.com/langgptai/aurora-landing/issues)
 
 </div>
 
