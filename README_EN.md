@@ -13,7 +13,11 @@ A modern, elegant and animated landing page template built with Next.js 13+, Tai
 
 </div>
 
-![Preview](./public/preview.png)
+![Preview](./public/landing_p1.png)
+
+![Preview](./public/landing_p2.png)
+
+![Preview](./public/landing_p3.png)
 
 ## ✨ Features
 

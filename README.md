@@ -13,7 +13,11 @@
 
 </div>
 
-![预览图](./public/preview.png)
+![预览图](./public/landing_p1.png)
+
+![预览图](./public/landing_p2.png)
+
+![预览图](./public/landing_p3.png)
 
 ## ✨ 特性
 
