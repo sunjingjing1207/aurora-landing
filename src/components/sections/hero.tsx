@@ -39,14 +39,14 @@ const Hero = () => {
             </span>
             
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              将
+              永远相信
               <span className="relative">
                 <span className="relative z-10 text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-600">
-                  世界知识
+                  美好事情
                 </span>
                 <span className="absolute -inset-1 bg-blue-100/40 blur-md" />
               </span>
-              装进口袋
+              即将发生
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600 max-w-2xl mx-auto">
               基于中文模型优化的AI对话助手，为中文用户提供极致的对话体验。智能、高效、便捷，随时随地获取知识、解答疑惑。

@@ -9,3 +9,7 @@ const nextConfig: NextConfig = {
 };
 
 export default nextConfig;
+// 这里使用 module.exports 来导出配置对象
+module.exports = {
+  swcMinify: false,
+};
